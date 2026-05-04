@@ -18,7 +18,7 @@ Today, I truly enjoy building the "behind-the-scenes" pipelines that collect, cl
 
 ---
 
-### 🌿 A Bit About Me
+### A Bit About Me
 
 * 🏋️‍♂️ I'm a gym enthusiast and fitness devotee.
 * 🎮 Into gaming — I enjoy competitive sessions to recharge.
