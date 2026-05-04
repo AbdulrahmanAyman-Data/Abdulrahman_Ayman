@@ -1,6 +1,6 @@
 # Hi there, I'm Abdelrhman! 👋
 
-### 🚀 Data Engineer | GIS Analyst | ETL & Spatial Data Expert
+### Data Engineer | GIS Analyst | ETL & Spatial Data Expert
 
 I began my journey with data in the world of **GIS**, where I first discovered the power of spatial databases. Starting with spatial analysis and database management, I learned how to look at the world through maps and coordinates.
 
