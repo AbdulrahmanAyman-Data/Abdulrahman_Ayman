@@ -1,6 +1,6 @@
 # Hi there, I'm Abdelrhman! 👋
 
-### Data Engineer | GIS Analyst | ETL & Spatial Data Expert
+### 🚀 Data Engineer | GIS Analyst | ETL & Spatial Data Expert
 
 I began my journey with data in the world of **GIS**, where I first discovered the power of spatial databases. Starting with spatial analysis and database management, I learned how to look at the world through maps and coordinates.
 
@@ -27,5 +27,5 @@ Today, I truly enjoy building the "behind-the-scenes" pipelines that collect, cl
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulrahman-ayman-45b854361)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-ayman-45b854361)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahman.a.farag@gmail.com)
