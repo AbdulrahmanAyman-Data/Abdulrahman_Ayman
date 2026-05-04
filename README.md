@@ -24,8 +24,4 @@ Today, I truly enjoy building the "behind-the-scenes" pipelines that collect, cl
 * 🎮 Into gaming — I enjoy competitive sessions to recharge.
 * 🚶‍♂️ I love taking walks from time to time in green spaces and fresh air to clear my mind, finding peace away from the noise of the digital world.
 
----
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-ayman-45b854361)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahman.a.farag@gmail.com)
